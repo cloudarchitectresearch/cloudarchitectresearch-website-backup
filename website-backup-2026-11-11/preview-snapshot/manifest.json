@@ -1,0 +1,74 @@
+{
+  "createdUtc": "2026-11-11T07:01:42.9385367Z",
+  "source": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com",
+  "pages": [
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/",
+      "file": "site\\index.html",
+      "sha256": "ac1db36ad2d95cb621a0bcbf1025e7077a4906aacee65f7adf60b52dad4bfc01",
+      "bytes": 181666
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/services",
+      "file": "site\\services_index.html",
+      "sha256": "5cf0180cc7c55edf2f8e4ee948fba906c3c914e7ffe71df97030e975adfecbdc",
+      "bytes": 154623
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/contact",
+      "file": "site\\contact_index.html",
+      "sha256": "3aa3a12cad920aad8580ca50a401da8a244ada7489042d4bcd2eb98aa9eb01d2",
+      "bytes": 140829
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/circleglow-support",
+      "file": "site\\circleglow-support_index.html",
+      "sha256": "582bfc2538fdce1460b58a700c359277658cc130cd46da157cb2a44d8f31ddfc",
+      "bytes": 136671
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/apps-and-services",
+      "file": "site\\apps-and-services_index.html",
+      "sha256": "596a2defc3ada8ef698d87dd6816abe7004c978ff8ec578e0893f160d6401dc0",
+      "bytes": 134755
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/sap-learning",
+      "file": "site\\sap-learning_index.html",
+      "sha256": "29b6d7a8637d78d696a7216be8398b24d7235bb96b55be4b3c9a40b6291bb40c",
+      "bytes": 182611
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/sajilo-circle",
+      "file": "site\\sajilo-circle_index.html",
+      "sha256": "3f3f9485be8ddd8389f0bd9e99c2188c80473931d4ae95b7fa68ead0ea3f6e50",
+      "bytes": 560475
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/themes/serene/assets/css/styles.css?10a41f56ceaf2eaaf481bdaaf35516d9",
+      "file": "site\\themes\\serene\\assets\\css\\styles.css",
+      "sha256": "c71a29aa0b4e77ef8975866ea43b5124d6de12edf4c8133e499e5f1b90c503f9",
+      "bytes": 43128
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/storage/329/01a074aa-13f1-7147-bd99-53f3c5be23c2/favicon6a9e60a792617.png",
+      "file": "site\\storage\\329\\01a074aa-13f1-7147-bd99-53f3c5be23c2\\favicon6a9e60a792617.png",
+      "sha256": "c71d650ba52f698d5b51e4a0f95a68379b43603abbd99eeda5a77bcdf2cad6af",
+      "bytes": 484171
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/css/published.css?v=21982f17aa2d8849e03ea4d119c10e26",
+      "file": "site\\css\\published.css",
+      "sha256": "d9e6bb181513a56ad5e94f7eb8fa2461d586d01fa8aae3aa429710c0f5cd2bd4",
+      "bytes": 350221
+    },
+    {
+      "url": "https://01a074aa-13f1-7147-bd99-53f3c5be23c2.preview.articulationsites.com/storage/329/01a074aa-13f1-7147-bd99-53f3c5be23c2/home-cloud-sap-background.png",
+      "file": "site\\storage\\329\\01a074aa-13f1-7147-bd99-53f3c5be23c2\\home-cloud-sap-background.png",
+      "sha256": "f937f8180547e4bca1371b2a439d061b3915c1932839bff8639fe2ee417cbc16",
+      "bytes": 1999668
+    }
+  ]
+}
