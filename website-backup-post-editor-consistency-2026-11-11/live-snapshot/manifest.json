@@ -1,0 +1,74 @@
+{
+  "createdUtc": "2026-11-11T08:46:12.1351111Z",
+  "source": "https://www.cloudarchitectresearch.com",
+  "pages": [
+    {
+      "url": "https://www.cloudarchitectresearch.com/",
+      "file": "site\\index.html",
+      "sha256": "9b3161669410e422bda0fbc7e841fb9f404d5f0727b5add82d426cd268aa4f7f",
+      "bytes": 181507
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/services",
+      "file": "site\\services_index.html",
+      "sha256": "ed0639fe20ef057f4c8197dfc768956ad262c535dfd94ac52006719110a370a9",
+      "bytes": 154432
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/contact",
+      "file": "site\\contact_index.html",
+      "sha256": "0437b7ce9dec9b932826ce81f3402226165a85baf00f8a6dab0a1e9488eeacee",
+      "bytes": 140638
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/circleglow-support",
+      "file": "site\\circleglow-support_index.html",
+      "sha256": "ccc7b9e3289c6e584989df1902f9ddfb1332a0ba495ff30cfa509b1de37461f6",
+      "bytes": 136480
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/apps-and-services",
+      "file": "site\\apps-and-services_index.html",
+      "sha256": "81ba5e989808aa694aeda764c69a742aff258f17de96248b8de87f4aae5a4049",
+      "bytes": 134564
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/sap-learning",
+      "file": "site\\sap-learning_index.html",
+      "sha256": "604745aa4ba271a14a4489db367880b2574b8e7ef51d6e1cacb87ffadfa3d677",
+      "bytes": 182420
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/sajilo-circle",
+      "file": "site\\sajilo-circle_index.html",
+      "sha256": "5a83367f42872b2238033ac5ca1ccdcf62e4ab7ae307bf790a9f710c3d7e8854",
+      "bytes": 560284
+    }
+  ],
+  "assets": [
+    {
+      "url": "https://www.cloudarchitectresearch.com/themes/serene/assets/css/styles.css?10a41f56ceaf2eaaf481bdaaf35516d9",
+      "file": "site\\themes\\serene\\assets\\css\\styles.css",
+      "sha256": "c71a29aa0b4e77ef8975866ea43b5124d6de12edf4c8133e499e5f1b90c503f9",
+      "bytes": 43128
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/storage/329/01a074aa-13f1-7147-bd99-53f3c5be23c2/favicon6a9e60a792617.png",
+      "file": "site\\storage\\329\\01a074aa-13f1-7147-bd99-53f3c5be23c2\\favicon6a9e60a792617.png",
+      "sha256": "c71d650ba52f698d5b51e4a0f95a68379b43603abbd99eeda5a77bcdf2cad6af",
+      "bytes": 484171
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/css/published.css?v=21982f17aa2d8849e03ea4d119c10e26",
+      "file": "site\\css\\published.css",
+      "sha256": "d9e6bb181513a56ad5e94f7eb8fa2461d586d01fa8aae3aa429710c0f5cd2bd4",
+      "bytes": 350221
+    },
+    {
+      "url": "https://www.cloudarchitectresearch.com/storage/329/01a074aa-13f1-7147-bd99-53f3c5be23c2/home-cloud-sap-background.png",
+      "file": "site\\storage\\329\\01a074aa-13f1-7147-bd99-53f3c5be23c2\\home-cloud-sap-background.png",
+      "sha256": "f937f8180547e4bca1371b2a439d061b3915c1932839bff8639fe2ee417cbc16",
+      "bytes": 1999668
+    }
+  ]
+}
